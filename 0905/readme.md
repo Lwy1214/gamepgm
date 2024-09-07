@@ -1,3 +1,3 @@
-# Hello.cpp
+# hello.cpp
 
 Hello C World를 출력하는 프로그램
