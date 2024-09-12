@@ -29,6 +29,6 @@
 srand(time(NULL)) 을 사용해서 시스템 시간에 따라 시드가 달라지고 랜덤한 숫자를 출력
 
 # scanstr1.cpp
-scaqnf로 입력받은걸 출력
+scanf로 입력받은걸 출력
 # strsize1.cpp
 string[20] 안에 들어가있는 string의 크기를 출력
