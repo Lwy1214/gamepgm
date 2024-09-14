@@ -8,7 +8,7 @@
 # exkey.cpp
 입력한 값의 아스키코드와 확장키코드를 출력함
 # goto1.cpp
-화면의 지정한 위치에 Hello를 출력
+화면의 지정한 위치에 Hello를 출력 (커서위치제어)
 # gugudan3.cpp
 구구단 3단출력
 # keycontrol1.cpp
