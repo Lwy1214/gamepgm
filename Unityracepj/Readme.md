@@ -7,6 +7,10 @@
 ### TriggerForwarder.cs 
 트리거를 체크포인트에서 받아오기 위해 사용한 코드
 
+### CameraFollow2.cs
+카메라가 차량뒤를 원활하게 따라가게 완성한 코드,
+Stackoverrflow에서 가져옴
+
 *그 외 에셋에서 가져온 코드는 미포함*
 
 
