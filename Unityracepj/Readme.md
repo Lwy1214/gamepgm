@@ -1,3 +1,6 @@
+# 최종 완성 시연영상
+https://www.youtube.com/watch?v=7QGieJDK1SI
+
 # finalcodes
 최종 완성에 사용한 코드들
 
