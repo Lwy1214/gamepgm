@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 
 ![image](https://github.com/user-attachments/assets/2b6eaa64-a5d3-486e-8b64-8a7aadd80351)
 
+WEBGL빌드
+https://youtu.be/0uJHpI9SBHQ
+
 ASSETSTORE 에셋을 활용하여 직접 제작
 
 
