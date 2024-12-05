@@ -88,6 +88,8 @@ https://stackoverflow.com/questions/65816546/unity-camera-follows-player-script
 
 *그 외 에셋에서 가져온 코드는 미포함*
 
+### GameIntro.cs
+인트로 장면에서 메인게임으로 넘어가는코드
 
 # unusedcodes
 미완성 실패 코드들, 처음에 만들때 잠깐 사용했던 코드
