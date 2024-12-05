@@ -61,6 +61,7 @@ Lines 밑에 startingline,checkpoint1,2,3들을 두긴했는데 그것때문인�
 
 GameObject.Find는 안써도 되는거야?
 
+근데 왜 Textmeshpro는 안골라지고 Legacy 텍스트 UI는 골라서 올릴수 있는거야? (레거시 텍스트에서 TMP 사용가능하게 변경)
 
 # finalcodes
 최종 완성에 사용한 코드들
