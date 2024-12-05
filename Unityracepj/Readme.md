@@ -1,8 +1,11 @@
 # 최종 완성 시연영상
 
 https://www.youtube.com/watch?v=7QGieJDK1SI
-ASSETSTORE 에셋을 활용하여 직접 제작작
+
+ASSETSTORE 에셋을 활용하여 직접 제작
+
 총 제작기능 11개
+
 트랙,자동차,카메라,자동차타이어음,자동차엔진음,체크포인트및출발선, 체크포인트시스템,속도계,현재LAP,랩타임,LAP기록
 
 ## 체크포인트 chatgpt 프롬프트
