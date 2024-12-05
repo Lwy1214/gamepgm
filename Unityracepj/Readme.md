@@ -1,4 +1,4 @@
-# 최종 완성 시연영상
+# 최종 완성 시연영상 (인트로미포함 버전)
 
 https://www.youtube.com/watch?v=7QGieJDK1SI
 
