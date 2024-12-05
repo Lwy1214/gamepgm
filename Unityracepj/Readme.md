@@ -1,6 +1,7 @@
 # 최종 완성 시연영상
-https://www.youtube.com/watch?v=7QGieJDK1SI
 
+https://www.youtube.com/watch?v=7QGieJDK1SI
+ASSETSTORE 에셋을 활용하여 직접 제작작
 총 제작기능 11개
 트랙,자동차,카메라,자동차타이어음,자동차엔진음,체크포인트및출발선, 체크포인트시스템,속도계,현재LAP,랩타임,LAP기록
 
@@ -18,6 +19,10 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 
 (원하는 형태, 오류없는 형태의 코드가 나올때까지 새 채팅에서 사용)
 
+## Trigger Collider Chatgpt 프롬프트
+*이전 코드* 
+스크립트를 외부의 Gamesystem에 올렸을땐 작동이 안되다가 Startingpoint에 올리니 딱 Startingpoint만 작동하더라 이거 원래 모든 블럭에 스크립트를 올려야하는거니?
+
 ## 타이머 기능 추가 Chatgpt 프롬프트
 *이전 코드*
 
@@ -28,7 +33,7 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 Assets\GameSystem.cs(62,56): error CS0246: The type or namespace name 'Checkpoint' could not be found (are you missing a using directive or an assembly reference?)
 Checkpoint 각각에 올려야할 스크립트는 뭐야
 
-스크립트를 외부의 Gamesystem에 올렸을땐 작동이 안되다가 Startingpoint에 올리니 딱 Startingpoint만 작동하더라 이거 원래 모든 블럭에 스크립트를 올려야하는거니?
+
 
 차의 Rigidbody에 Collision Detection이 Discrete인데 바꿔야할까
 
@@ -63,8 +68,8 @@ Stackoverrflow에서 가져옴
 에셋을 따라가나 카메라가 부드럽게 따라가지 못하고 후면을 따라가지 않아서 실패
 
 ### GameSystem.cs
-처음 체크포인트 시스템 제작에 사용했던 코드
-버리고 처음부터 다시 만듬
+처음 프롬프트를 넣었을때 나와서 체크포인트 시스템 제작에 사용했던 코드
+개선이 어려워 버리고 처음부터 다시 만듬
 
 ### LapSystem2.cs
 
