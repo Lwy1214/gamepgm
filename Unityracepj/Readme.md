@@ -42,6 +42,9 @@ https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-16
 여기다가 실시간으로 TMP UI로 보여주는 레이싱 게임용 타이머를 추가하려고 해 시간은
 분:초:마이크로초 이렇게 표시하고 싶어
 
+맨처음 Startingpoint를 밟기 전까지는 시간이 0:00:000으로 안 흘렀으면 좋겠어
+그리고 한 바퀴를 돌때마다 기록을 저장하고 싶어
+
 ## 그 외 오류 수정에 쓴 프롬프트
 Assets\GameSystem.cs(62,56): error CS0246: The type or namespace name 'Checkpoint' could not be found (are you missing a using directive or an assembly reference?)
 Checkpoint 각각에 올려야할 스크립트는 뭐야
