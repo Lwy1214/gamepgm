@@ -16,11 +16,29 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 체크포인트 2를 지나가면 체크포인트 2가 꺼지고 체크포인트 3이 켜지고  
 체크포인트 3을 지나가면 다시 시작점이 활성화되게 하려고 해 어떻게 코딩하면 될까
 
+
 ## 타이머 기능 추가 Chatgpt 프롬프트
 *이전 코드*
 
 여기다가 실시간으로 TMP UI로 보여주는 레이싱 게임용 타이머를 추가하려고 해 시간은
 분:초:마이크로초 이렇게 표시하고 싶어
+
+## 그 외 오류 수정에 쓴 프롬프트
+Assets\GameSystem.cs(62,56): error CS0246: The type or namespace name 'Checkpoint' could not be found (are you missing a using directive or an assembly reference?)
+Checkpoint 각각에 올려야할 스크립트는 뭐야
+
+스크립트를 외부의 Gamesystem에 올렸을땐 작동이 안되다가 Startingpoint에 올리니 딱 Startingpoint만 작동하더라 이거 원래 모든 블럭에 스크립트를 올려야하는거니?
+
+차의 Rigidbody에 Collision Detection이 Discrete인데 바꿔야할까
+
+자꾸 Collider가 작동하지는 않고 통과만 되더라
+
+시작점이랑 체크포인트 모두 설정했는데 처음에 시작점만 켜지는것 말고는 작동을 안하네 
+
+Lines 밑에 startingline,checkpoint1,2,3들을 두긴했는데 그것때문인가/
+
+GameObject.Find는 안써도 되는거야?
+
 
 # finalcodes
 최종 완성에 사용한 코드들
