@@ -78,7 +78,22 @@ WebGL로 빌드,게임생성
 맨처음 Startingpoint를 밟기 전까지는 시간이 0:00:000으로 안 흘렀으면 좋겠어
 그리고 한 바퀴를 돌때마다 기록을 저장하고 싶어
 
+## 인트로 씬 제작
+게임 시작 전에 제목과 Play 버튼을 누르면 게임이 시작되게 하는 간단한 인트로 화면을 만드려 하는데 어떻게 만들면 될까
 
+내가 Unity6 최신버전을 써서 그런데 이거 New Scene을 만든다음 Build Profiles에 들어가서 어떻게하는거야
+
+이거 기본 Scene이 SampleScene 이름인데 이름은 어떻게 바꿔?
+
+그 Build And Run 할때 폴더를 고르라는건 뭐야
+
+Build completed with a result of 'Unknown' in 0 seconds (0 ms)
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+계속 누를떄마다 이렇게 뜨는데
+
+근데 버튼을 눌러도 씬 로드가 안되는 이유는?
+
+Graphic raycaster가 ignore reversed graphic 체크, Blocking object none, Blocking mask Everything인데 맞아?
 
 ## 그 외 오류 수정에 쓴 Chatgpt 프롬프트
 Assets\GameSystem.cs(62,56): error CS0246: The type or namespace name 'Checkpoint' could not be found (are you missing a using directive or an assembly reference?)
