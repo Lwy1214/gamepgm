@@ -33,6 +33,7 @@ https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-16
 
 ## Trigger Collider Chatgpt 프롬프트
 *이전 코드* 
+
 스크립트를 외부의 Gamesystem에 올렸을땐 작동이 안되다가 Startingpoint에 올리니 딱 Startingpoint만 작동하더라 이거 원래 모든 블럭에 스크립트를 올려야하는거니?
 
 ## 타이머 기능 추가 Chatgpt 프롬프트
