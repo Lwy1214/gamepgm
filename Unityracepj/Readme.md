@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 
 ## 타이머 기능 추가 Chatgpt 프롬프트
 *이전 코드*
+
 여기다가 실시간으로 TMP UI로 보여주는 레이싱 게임용 타이머를 추가하려고 해 시간은
 분:초:마이크로초 이렇게 표시하고 싶어
 
