@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=7QGieJDK1SI
 
 ASSETSTORE 에셋을 활용하여 직접 제작
 
+### 제작에 사용한 에셋
+https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-209444
+https://assetstore.unity.com/packages/3d/environments/roadways/cartoon-race-track-oval-175061
+### 초기에 사용하고 최종 버전에는 사용하지 않은 에셋
+https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+
 총 제작기능 11개
 
 트랙,자동차,카메라,자동차타이어음,자동차엔진음,체크포인트및출발선, 체크포인트시스템,속도계,현재LAP,랩타임,LAP기록
