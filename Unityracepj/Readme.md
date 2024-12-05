@@ -19,20 +19,35 @@ https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-16
 ### 총 제작기능 16개
 
 트랙
+
 자동차
+
 카메라
+
 자동차타이어음
+
 자동차엔진음
+
 체크포인트및출발선
+
 체크포인트시스템
+
 속도계
+
 현재LAP
+
 랩타임
+
 LAP기록
+
 인트로용 별도 씬 분리 및 생성 
+
 인트로 제목 그라데이션
+
 인트로 버튼 기능 추가 
+
 버튼이 눌러졌을때 색 변경
+
 WebGL로 빌드,게임생성
 
 ## 체크포인트 chatgpt 프롬프트
